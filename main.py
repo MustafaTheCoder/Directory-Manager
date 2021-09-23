@@ -43,10 +43,4 @@ while True:
 
     else:
         break                
-
-
-
-
-
-    
-
+        
